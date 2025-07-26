@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # === CONFIG ===
-JSON_FILE="/home/voyd/Documents/SDR/aero-scan/aircraft.json"
+JSON_FILE="path/to/aircraft.json"
 REPORT="/tmp/plane_report.txt"
-EMAIL_TO="alecjansen1@gmail.com"
+EMAIL_TO="youremail@address.com"
 HOSTNAME=$(hostname)
 DATETIME=$(date "+%Y-%m-%d %H:%M:%S")
 
